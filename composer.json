@@ -1,0 +1,14 @@
+{
+    "name": "avantar/bebok-boilerplate",
+    "description": "Bebok Boilerplate",
+    "type": "project",
+    "license": "MIT",
+    "authors": [{
+        "name": "Krzysztof Szala",
+        "email": "avantar@gmail.com"
+    }],
+    "minimum-stability": "dev",
+    "require-dev": {
+        "avantar/bebok": "dev-master@dev"
+    }
+}

@@ -7,7 +7,7 @@
         "name": "Krzysztof Szala",
         "email": "avantar@gmail.com"
     }],
-    "require-dev": {
+    "require": {
         "avantar/bebok": "dev-master@dev"
     },
     "require": {

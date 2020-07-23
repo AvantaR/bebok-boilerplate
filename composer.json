@@ -9,5 +9,8 @@
     }],
     "require-dev": {
         "avantar/bebok": "dev-master@dev"
+    },
+    "require": {
+        "consolidation/robo": "^2.1"
     }
 }

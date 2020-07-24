@@ -11,7 +11,7 @@ class RoboFile extends \Robo\Tasks
     {
         $this->_cleanDir('output');
         $this->_copy('templates/styles/github.css', 'output/style.css');
-        $this->_exec('php vendor/avantar/bebok/src/Bebok/index.php');
+        $this->_exec('php vendor/avantar/bebok/src/Bebok/index.php bebok:build');
     }
 
     public function start(): void

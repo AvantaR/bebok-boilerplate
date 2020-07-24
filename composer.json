@@ -8,9 +8,7 @@
         "email": "avantar@gmail.com"
     }],
     "require": {
-        "avantar/bebok": "dev-master@dev"
-    },
-    "require": {
+        "avantar/bebok": "dev-master@dev",
         "consolidation/robo": "^2.1"
     }
 }
